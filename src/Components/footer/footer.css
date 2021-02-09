@@ -1,0 +1,19 @@
+#footer_banner {
+    width: 100%;
+    height: auto;
+    background-color: #bbbb;
+    padding-bottom: 10px;
+}
+
+#footer_inner_text {
+    color: azure;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#footer_credit {
+    color:azure;
+    font-size: 20px;
+    text-align: center;
+}

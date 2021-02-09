@@ -1,0 +1,40 @@
+.places_holder {
+    height:auto;
+    width: 500px;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom: 20px;
+    background-color: rgb(51, 210, 30);
+    border-radius: 20px;;
+    padding:10px;
+
+}
+
+
+.places_image {
+    padding-top:10px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.places_title {
+    text-align: center;
+    font-size: 30px;
+    margin-top:15px
+
+}
+
+.places_location {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.places_comment {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
