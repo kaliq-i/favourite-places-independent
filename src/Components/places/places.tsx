@@ -17,7 +17,7 @@ function Places (props:PlaceDescription) {
 
     return (
         <div className="places_holder">
-            <img className="places_image" src={image} alt="An Image"/>
+            <img className="places_image" src={image} alt="favourite spot"/>
             <p className="places_title">{title}</p>
             <p className="places_location">{location} 
                 <a href={map} className="places_map"> (Map Here) </a> 
